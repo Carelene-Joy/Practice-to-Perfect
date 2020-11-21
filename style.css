@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+     background: linear-gradient(#2718d6 10%, #9418d6 90%);
+}
+
+
+
+#Welcome {
+
+    background: linear-gradient(#2718d6 10%, #9418d6 90%);
+    width: 100%;
+    height: 100%
+}
+
+.parrallax inner {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+h1 {
+    font-size: 40px;
+    line-height: 1;
+    font-family: inherit;
+    font-weight: 300;
+}
+
+h2 {
+    font-size: 30px;
+    line-height: 1;
+    font-family: monospace;
+    font-weight: 300;
+}
+
+#bio {
+    padding: 50px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.line {
+ height: 6px;
+    width: 1150px;
+    margin: auto;
+     background: linear-gradient(#d64e18 10%, #9418d6 90%);
+    
+    
+}
